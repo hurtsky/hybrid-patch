@@ -1,0 +1,6 @@
+body {
+	padding: 10px;
+	color: white;
+	background: transparent url(web.jpg) no-repeat;
+	background-attachment: fixed;
+}
