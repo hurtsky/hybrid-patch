@@ -7,3 +7,4 @@
 5 31012018_client_update.thor
 6 31012018_client_update_v2.thor
 7 31012018_dataini.thor
+8 31012018_dataini_v2.thor
