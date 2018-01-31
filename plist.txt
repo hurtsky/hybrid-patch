@@ -2,3 +2,4 @@
 //2 2007-11-17palettes.thor
 1 31012018_data.thor
 2 31012018_iteminfo.thor
+3 kro_patcher_update.thor
