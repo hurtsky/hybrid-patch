@@ -2,12 +2,13 @@
 //2 2007-11-17palettes.thor
 1 31012018_data.thor
 2 31012018_iteminfo.thor
-3 kro_patcher_update.thor
+//3 kro_patcher_update.thor
 4 31012018_iteminfo_fixes.thor
-5 31012018_client_update.thor
-6 31012018_client_update_v2.thor
+//5 31012018_client_update.thor
+//6 31012018_client_update_v2.thor
 7 31012018_dataini.thor
 8 31012018_dataini_v2.thor
 9 06022018_update_cursor.thor
 10 06022018_remove_dataini.thor
 11 08022018_add_pvp_sound.thor
+12 20180217_iteminfo_achivement.thor
