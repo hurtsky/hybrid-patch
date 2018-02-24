@@ -14,3 +14,4 @@
 12 20180217_iteminfo_achivement.thor
 13 17022018_update_missing_bmp.thor
 14 18022018_sprite_texture_update.thor
+15 24022018_data_update.thor
