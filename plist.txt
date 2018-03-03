@@ -17,3 +17,5 @@
 15 24022018_data_update.thor
 16 24022018_system_update.thor
 17 24022018_skillinfo_update.thor
+18 03032018_update_lua.thor
+19 03032018_update_systeminfo.thor
